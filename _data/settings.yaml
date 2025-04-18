@@ -20,6 +20,7 @@ metadata:
   site_email: tom@thewigleys.uk
   # footer social link (the social title is defined in the i18n section)
   site_social_url: 'https://www.instagram.com/tomandarnie/'
+  site_git_url: 'https://github.com/twigley/'
   # SVG image used for sharing/bookmark icons
   site_icon_svg: /assets/uploads/favicon.svg
 
@@ -91,6 +92,7 @@ i18n:
   site_language: en
   # single-language translations can be defined here
   site_social_title: Instagram
+  site_git_title: Github
 # Internal config, hidden from Tina CMS
 config:
   # define responsive image widths for project thumbnails and large images

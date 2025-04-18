@@ -22,6 +22,14 @@
       </div>
     {% endif %}
 
+    {% if settings.metadata.site_social_url %}
+      <div class="grid__item">
+        <span>
+          <a href="{{ settings.metadata.site_git_url }}" target="_blank" rel="noopener">{{ settings.i18n.site_git_title }}</a>
+        </span>
+      </div>
+    {% endif %}
+
   </div>
 
 </footer>
