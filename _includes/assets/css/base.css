@@ -46,8 +46,8 @@ body {
 	display: grid;
 	grid-template-columns: 1fr;
 	align-items: flex-start;
-	-moz-column-gap: calc(var(--space) * 1.25);
-	     column-gap: calc(var(--space) * 1.25);
+	-moz-column-gap: calc(var(--space) * 1);
+	     column-gap: calc(var(--space) * 1);
 }
 
 .grid--body {
@@ -286,7 +286,7 @@ img {
 	.grid__item--end {
 		display: flex;
 		justify-content: flex-end;
-		grid-column: 4;
+		grid-column: 5;
 	}
 
 	[data-orientation] {
