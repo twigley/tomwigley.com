@@ -5,8 +5,8 @@ metadata:
   site_url: 'https://www.tomwigley.com'
   site_title: Tom Wigley
   # site subtitles are optional
-  site_subtitle_1: Photos
-  site_subtitle_2: UK
+  # site_subtitle_1: Photos
+  # site_subtitle_2: UK
   # Home page description, accepts markdown
   site_description: |
     A simple site for a simple man.
